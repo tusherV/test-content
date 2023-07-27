@@ -1,98 +1,104 @@
 {
-    "ver": "1.2",
-    "assets": [
-        {
-            "id": 1,
-            "title": {
-                "text": "Puma RS-X Geek Erkek S..."
-            }
-        },
-        {
-            "id": 2,
-            "data": {
-                "type": 2,
-                "value": "Puma RS-X Geek Erkek Siyah Spor Ayakkabı ürünü KADIN > AYAKKABI > Spor Ayakkabı kategor..."
-            }
-        },
-        {
-            "id": 3,
-            "data": {
-                "type": 12,
-                "value": "SATIN AL"
-            }
-        },
-        {
-            "id": 4,
-            "data": {
-                "type": 1,
-                "value": "SUPERSTEP TR - TRY"
-            }
-        },
-        {
-            "id": 5,
-            "img": {
-                "type": 3,
-                "url": "https://imageproxy.eu.criteo.net/img/img?ar=1&c=3&cq=256&h=600&llw=600&m=2&p=1&partner=24129&q=80&r=0&u=https%3A%2F%2Fakn-ss.a-cdn.akinoncloud.com%2Fproducts%2F2023%2F03%2F30%2F862632%2F98cb5b56-c7eb-4a87-8486-dbd32b744a51.jpg&ups=1&v=3&w=600&s=piJ__d_j8IX_j7dgoyrKPqCa",
-                "w": 600,
-                "h": 600,
-                "ext": {
-                    "imagemode": 0
-                }
-            }
-        }
-    ],
-    "link": {
-        "url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=uqWg4VcUK0TrFbggTSJ0LQxnOTZttWPldoVWzBZRT1Xqj8yTq15qzmQRrtQJOZEWix46Pih_er9iqmXSQWWq8BBzMdaxnyR_pJ41a0GKTOsfMA7UA9GnN4CktGsRAyjKxKVBg1QbrM8XTWWLV318Ysj9TCkVpBHXOVr5CipiGjNI9ERwAxE4oKaSTC1LW9t7zdB0A5WiGxEoe6rbMI0rAn5VvO6jsxi9Vz7Rk5onvDxYHRqUb1mjSE_FBr76ECGWrOHtxQXJy7uijIa5gN8EBcR0hUXXHUNv4279bxbOaN9ooHn6wqEQHS3xCI90ak_8BOFaTOOW1Xv00L1afgCLwQVUp7AnWxcbtziVnz_gcJSRfhb89kz-cvTgG52YJbHP4WXz-Un47cDRWPDvyFEBhD_tkn_m7yOKxp_tBW6fPQuU1cqWbCc5cLw3rrcKA7f8sU6nh7yE_YzbM3WBNppBunbIrRtugV8DYh3Lx0SV-GObJdpLcIZ1zTRJkVQGyVFlnDfJSgE6o53PGPaAqlko7Utap9i7hqHzVAbFjujqFaWWuW2brcSpFcpZdZAGE7QRplhrcw&maxdest=https%3A%2F%2Fwww.superstep.com.tr%2Furun%2Fpuma-rs-x-geek-erkek-siyah-spor-ayakkabi%2F391174-02%2F%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DWeb%252FLower%2520Funnel%2520Customer%26cto_pld%3DMdyU1EFeAAAtLE2ws1Bd7g"
-    },
-    "eventtrackers": [
-        {
-            "event": 1,
-            "method": 1,
-            "url": "https://cat.fr3.eu.criteo.com/delivery/lgn.php?cppv=3&cpp=K52E6lcUK0TrFbggTSJ0LQxnOTZttWPldoVWzBZRT1Xqj8yTq15qzmQRrtQJOZEWix46Pih_er9iqmXSQWWq8BBzMdaxnyR_pJ41a0GKTOsfMA7UA9GnN4CktGsRAyjKxKVBg1QbrM8XTWWLV318Ysj9TCmkzlWZx0IoOoV9-gKc28Z3Oc0uhmPKbM4eHbRLAU3msFZH7mzAnclMsraPitWZyOze3wyy60CvMoUAgoCkYiMuOspOkuDKYujQwMUgpTuFay-LFQ8rNUHGUNxSgv2PAJ0aHI4j3qhaEVr09ntQyL3yOX5J6PB-EW-EbMX-B88NR9HkPOCTgfPf688Xn6XnHxySKIchlEdIWdb_B8oDc15ECdSxd5WNx4EwdWA5K8nr-PUG17V0ArZN7sqGCXQ6Mv2kgrBapcPdGNhJdYpxYL-4qxc_FL1yI_XnAF8LwKHcXcQmIBAdJ4zCuC4WJDItF6A_BdayU7_s5Yp77q3HVPcV&z=${AUCTION_PRICE:GPD}"
-        }
-    ],
-    "privacy": "https://privacy.eu.criteo.com/adchoices?cppv=3&cpp=6BC1TAGdv0RIO4ym4Yq6FvYCXXzqNVzucqSWCD8OoJIY0ocKcUtFBCxfN6dy0NOO46YZ8Ha7aT_rxju4bAIbvvgKVk8BZIYed2jLbll7UlAF_VVZl0DTVWQn_eu7gfD_W0evWLMLnlLzleCBqdVp5Smtf1o",
-    "ext": {
-        "privacy": {
-            "imageurl": "https://static.criteo.net/flash/icon/i_small_tr.png",
-            "clickurl": "https://privacy.eu.criteo.com/adchoices?cppv=3&cpp=6BC1TAGdv0RIO4ym4Yq6FvYCXXzqNVzucqSWCD8OoJIY0ocKcUtFBCxfN6dy0NOO46YZ8Ha7aT_rxju4bAIbvvgKVk8BZIYed2jLbll7UlAF_VVZl0DTVWQn_eu7gfD_W0evWLMLnlLzleCBqdVp5Smtf1o"
-        },
-        "demand": {
-            "productid": "4861255",
-            "campaignid": 284760,
-            "advertiserid": 22071
-        },
-        "products": [
-            {
-                "image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fd558d9ac-9d98-4176-aad3-f09fe8d02f17.jpg&ups=1&v=3&w=400&s=xBS3b0TFWHSja9i5ZJq2WFjF",
-                "heading": " Shoulder Tie Cotton Playsuit",
-                "caption": "Shoulder Tie Cotton Playsuit by Roman Originals UK Step into the warmer months with this cute sleeveless playsuit Cut from a woven cotton fabric this piece features a round neckline with tie detail shoulder straps It falls just above the knee making it perfect for Spring outings Pair with a plain...",
-                "clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=Ar24afrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qwaKTchajRGm_5RMl760UikEQC6j0AdSGm_aKMF61ohcpH408qjeCEBWYi3x01QEaGQNbGc122JYXbY9trQWIA3qH_5kTAEOjS_aOy3yDILmbh2_MQmbLRdhaQ51WNzEKcrOnO1T0yA34r0jWIR38fqL6qWpOHlSk2Le_qhu3kFLTif2SpR3W7_zF8KQyemrtThG5GbfiyRIlL5Rzpebk88BVZXe3CrElekdP4MaZEWHoTb_bcVxFJh5ZBRkIJh91OBZvTNvtXLDUrePq8W_7n1XGXEpU5abhx1e3JfeC9LOSbboVsVLG9s5aFkJF1yb47JbZMmHiTQpzp9wtXPnUevNUPusu9VV2EGBC9T8QV7wzYmpoJOVNsXgSI0Q1_hQS&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fshoulder-tie-detail-playsuit-14243960%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
-            },
-            {
-                "image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2F3ad0bbc3-d1ff-413d-aaae-c92d9309293d.jpg&ups=1&v=3&w=400&s=h9Dytj5FYyecv6_q1zmQf7Wr",
-                "heading": " Stretch Denim Mom Shorts",
-                "caption": "High Waisted Denim Stretch Shorts by Roman Originals UK Update your denim collection with these trendy high waisted shorts Fastened with a button fly to the front and additional belt loops these turned hem pocket shorts are perfect for packing in your suitcase for your next holiday Cut from a sof...",
-                "clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=yx2EJvrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qVyVT2czf2_w3W3tD5NbamsOsxZZGbhfoEE9s7Eh_Y4Lks19i7VXmK2wmrlsNOuL2cwVVBnpnU7-3uS6g6FJV-XoKE_77hAo51AOFUg--9O-aMuBpsSOYTCviEVudWwsP5WS4rANoeyp4DhwauOG7WNe-U2jvuL6Dd9xMy_Kn9sOYUvwVGbs91t6ykrqY-IqJNnPfW0j27nDqVQ8MYemO0Y-N_q0MsnyzNMb_j4V4MKy0D8rn7GfBsF-oj2kqvUwJZssPWDcfqZYYYrI24_oW5YNOqvXDmculJFrD96cFolCdwY2DixmsyY7un5wDpYjFPd3S4rz16kPL3XkZxtcsBaeJbsOeGLKxfSuv30aAtqqfmKIp8DSIkYPbcaz88nZ4&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fhigh-waisted-denim-stretch-shorts-18028794%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
-            },
-            {
-                "image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fd36c1801-cb18-4d1a-9b74-39e656cbdfee.jpg&ups=1&v=3&w=400&s=qSsn0UABiEuADRS_os6wN2vn",
-                "heading": " Cotton Blend Culotte Jumpsuit",
-                "caption": "Cotton Blend Culotte Jumpsuit by Roman Originals UK Made from a smooth and cool blend of linen and cotton this relaxed jumpsuit is sure to become a suitcase staple It features a feminine v neckline and partially open front with sweet button fastenings It has Summerready short sleeves and boasts l...",
-                "clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=3dEgZ_rxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qwaKTchajRGm_5RMl760Uihm06U7rBeVDOEWD_xMKrhy6-Wy9HHa18fbqbSUaiIkacF55aA-YlomLrYwRPPfWTGY5TDMvvx8-NMbuNu4a2Jl0pLUNhcsLCSSGKpJY2GIpaxzDhn-lq8mX1p81BcpE4hxcQH6SIwthTaeBOgJd2RudbamvRKQrcLscQdTQm-Jc3RkWflKIkgYCAuf7aOPRIl8TrbHBeSPOAKLkIGi9MfbSo2upYSQIS3uoaCf3EUuO6SmnIyyZfYCbDbkb6NzqgPgyg3npTqyxLPtcQW7AND5i2Ou6y7MFqMkK5BNlIMxL6JLTIQj_c4SyJmcKK-0MeS9zm8ZWYlRJQ_tlzvgSBPc4yLm2rrppbYWooCZIVGZD&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Flinen-wide-leg-jumpsuit-14244160%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
-            },
-            {
-                "image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2F770e7ee1-3dc1-4d6d-ade9-c0b7384c34f1.jpg&ups=1&v=3&w=400&s=iq4IMpkqZLfdL7WI0SvgVtWn",
-                "heading": " Stretch Denim Mom Shorts",
-                "caption": "High Waisted Denim Stretch Shorts by Roman Originals UK Update your denim collection with these trendy high waisted shorts Fastened with a button fly to the front and additional belt loops these turned hem pocket shorts are perfect for packing in your suitcase for your next holiday Cut from a sof...",
-                "clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=CpENafrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qt3oh6T5cG3AYWhyPaTSoCtumF7NjkRWYbEzSlvXzKsVK0Wk930uhNRb4uoHOGzeRv3fkPuVPv3N0x3FTr36CR6cPIOp_7NXA3nZYPC5j5UhHKyhjJt_CMWaglxoUtS66WOMksCoOiiUkRq80wVFah82xE9MuiKU4E_wvH7k7Ml_0Lz6-lLk7adb3UNpz2g4zAUJvwF4SBfpZLMHjKor3PaPc97cWTjZYEhqpD736f9MW4GS1WdE2NRbnMHJXCyiwSsyh9TPzkOaEcfmzQXss5VR-sG4sKHKX6_cV8rk02sroXzrHytEyRQHAJrQ77djyvDOIfkukPuQaGONnSP6835X3MRWxBzZ1Nw_MagvGgfWMFeVlh7RkGr-IwKznY2qq&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fhigh-waisted-denim-stretch-shorts-18028729%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
-            },
-            {
-                "image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fbe18edd1-ef02-4ddc-b8de-1ee99fd2c5b6.jpg&ups=1&v=3&w=400&s=NYWYf_HYujyLFyUuw9_iybtK",
-                "heading": " Classic Cotton Denim Jacket",
-                "caption": "Classic Cotton Denim Jacket by Roman Originals UK This classic denim jacket is a wardrobe essential for any lady This cropped piece comes complete with stylish silvertoned buttons a classic collar and two chest patch pockets Perfect to throw on over your spring summer outfits when it gets a littl...",
-                "clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=Jdbhu_rxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qVyVT2czf2_w3W3tD5NbamvhGvpakireaECAk-wSjxlpgatGe9PHyBI4aE7GXu-zwUYqhAUSLqCA9FsGahCPlCjIVPUuduPQ5U22vErm9hWFLUsfIJWEcWCKEYLR5yvKENtiTSv4Zc--SswP5wTCROgLtGOsY4ax94JSQPkLRleG_acx_n3XzZw_Z5VpWPTBCWw_5KX6LRBE5x9mBWJ-Wu4Hy38OCktzLOMx9Ln2XEYYx6jUmwPLP1T30exZjnWYo5yp_CDLch9ABWwPMUom6gzoijaX_L9Jn1F_G0T8C714vAlEpSPLKFCDtiMvi4qgk5UVquOWoq2IrIJdcfTVEkuPn4QZqBo9MAZrOUhwxEo658gY1yoazEKQUe9ks4gm9&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fclassic-washed-denim-jacket-15005682%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
-            }
-        ]
-    }
+	"ver": "1.2",
+	"assets": [{
+			"id": 1,
+			"title": {
+				"text": "Puma RS-X Geek Erkek S..."
+			}
+		},
+		{
+			"id": 2,
+			"data": {
+				"type": 2,
+				"value": "Puma RS-X Geek Erkek Siyah Spor Ayakkabı ürünü KADIN > AYAKKABI > Spor Ayakkabı kategor..."
+			}
+		},
+		{
+			"id": 3,
+			"data": {
+				"type": 12,
+				"value": "SATIN AL"
+			}
+		},
+		{
+			"id": 4,
+			"data": {
+				"type": 1,
+				"value": "SUPERSTEP TR - TRY"
+			}
+		},
+		{
+			"id": 5,
+			"img": {
+				"type": 3,
+				"url": "https://imageproxy.eu.criteo.net/img/img?ar=1&c=3&cq=256&h=600&llw=600&m=2&p=1&partner=24129&q=80&r=0&u=https%3A%2F%2Fakn-ss.a-cdn.akinoncloud.com%2Fproducts%2F2023%2F03%2F30%2F862632%2F98cb5b56-c7eb-4a87-8486-dbd32b744a51.jpg&ups=1&v=3&w=600&s=piJ__d_j8IX_j7dgoyrKPqCa",
+				"w": 600,
+				"h": 600,
+				"ext": {
+					"imagemode": 0
+				}
+			}
+		}
+	],
+	"link": {
+		"url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=uqWg4VcUK0TrFbggTSJ0LQxnOTZttWPldoVWzBZRT1Xqj8yTq15qzmQRrtQJOZEWix46Pih_er9iqmXSQWWq8BBzMdaxnyR_pJ41a0GKTOsfMA7UA9GnN4CktGsRAyjKxKVBg1QbrM8XTWWLV318Ysj9TCkVpBHXOVr5CipiGjNI9ERwAxE4oKaSTC1LW9t7zdB0A5WiGxEoe6rbMI0rAn5VvO6jsxi9Vz7Rk5onvDxYHRqUb1mjSE_FBr76ECGWrOHtxQXJy7uijIa5gN8EBcR0hUXXHUNv4279bxbOaN9ooHn6wqEQHS3xCI90ak_8BOFaTOOW1Xv00L1afgCLwQVUp7AnWxcbtziVnz_gcJSRfhb89kz-cvTgG52YJbHP4WXz-Un47cDRWPDvyFEBhD_tkn_m7yOKxp_tBW6fPQuU1cqWbCc5cLw3rrcKA7f8sU6nh7yE_YzbM3WBNppBunbIrRtugV8DYh3Lx0SV-GObJdpLcIZ1zTRJkVQGyVFlnDfJSgE6o53PGPaAqlko7Utap9i7hqHzVAbFjujqFaWWuW2brcSpFcpZdZAGE7QRplhrcw&maxdest=https%3A%2F%2Fwww.superstep.com.tr%2Furun%2Fpuma-rs-x-geek-erkek-siyah-spor-ayakkabi%2F391174-02%2F%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DWeb%252FLower%2520Funnel%2520Customer%26cto_pld%3DMdyU1EFeAAAtLE2ws1Bd7g"
+	},
+	"eventtrackers": [{
+		"event": 1,
+		"method": 1,
+		"url": "https://cat.fr3.eu.criteo.com/delivery/lgn.php?cppv=3&cpp=K52E6lcUK0TrFbggTSJ0LQxnOTZttWPldoVWzBZRT1Xqj8yTq15qzmQRrtQJOZEWix46Pih_er9iqmXSQWWq8BBzMdaxnyR_pJ41a0GKTOsfMA7UA9GnN4CktGsRAyjKxKVBg1QbrM8XTWWLV318Ysj9TCmkzlWZx0IoOoV9-gKc28Z3Oc0uhmPKbM4eHbRLAU3msFZH7mzAnclMsraPitWZyOze3wyy60CvMoUAgoCkYiMuOspOkuDKYujQwMUgpTuFay-LFQ8rNUHGUNxSgv2PAJ0aHI4j3qhaEVr09ntQyL3yOX5J6PB-EW-EbMX-B88NR9HkPOCTgfPf688Xn6XnHxySKIchlEdIWdb_B8oDc15ECdSxd5WNx4EwdWA5K8nr-PUG17V0ArZN7sqGCXQ6Mv2kgrBapcPdGNhJdYpxYL-4qxc_FL1yI_XnAF8LwKHcXcQmIBAdJ4zCuC4WJDItF6A_BdayU7_s5Yp77q3HVPcV&z=${AUCTION_PRICE:GPD}"
+	}],
+	"privacy": "https://privacy.eu.criteo.com/adchoices?cppv=3&cpp=6BC1TAGdv0RIO4ym4Yq6FvYCXXzqNVzucqSWCD8OoJIY0ocKcUtFBCxfN6dy0NOO46YZ8Ha7aT_rxju4bAIbvvgKVk8BZIYed2jLbll7UlAF_VVZl0DTVWQn_eu7gfD_W0evWLMLnlLzleCBqdVp5Smtf1o",
+	"ext": {
+		"privacy": {
+			"imageurl": "https://static.criteo.net/flash/icon/i_small_tr.png",
+			"clickurl": "https://privacy.eu.criteo.com/adchoices?cppv=3&cpp=6BC1TAGdv0RIO4ym4Yq6FvYCXXzqNVzucqSWCD8OoJIY0ocKcUtFBCxfN6dy0NOO46YZ8Ha7aT_rxju4bAIbvvgKVk8BZIYed2jLbll7UlAF_VVZl0DTVWQn_eu7gfD_W0evWLMLnlLzleCBqdVp5Smtf1o"
+		},
+		"demand": {
+			"productid": "4861255",
+			"campaignid": 284760,
+			"advertiserid": 22071
+		},
+		"products": [{
+				"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCTre5aXUkD4FAzWQGHoxgaisgEfDekPdhg&usqp=CAU",
+				"price": "£99.99",
+				"image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fd558d9ac-9d98-4176-aad3-f09fe8d02f17.jpg&ups=1&v=3&w=400&s=xBS3b0TFWHSja9i5ZJq2WFjF",
+				"heading": " Shoulder Tie Cotton Playsuit",
+				"caption": "Shoulder Tie Cotton Playsuit by Roman Originals UK Step into the warmer months with this cute sleeveless playsuit Cut from a woven cotton fabric this piece features a round neckline with tie detail shoulder straps It falls just above the knee making it perfect for Spring outings Pair with a plain...",
+				"clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=Ar24afrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qwaKTchajRGm_5RMl760UikEQC6j0AdSGm_aKMF61ohcpH408qjeCEBWYi3x01QEaGQNbGc122JYXbY9trQWIA3qH_5kTAEOjS_aOy3yDILmbh2_MQmbLRdhaQ51WNzEKcrOnO1T0yA34r0jWIR38fqL6qWpOHlSk2Le_qhu3kFLTif2SpR3W7_zF8KQyemrtThG5GbfiyRIlL5Rzpebk88BVZXe3CrElekdP4MaZEWHoTb_bcVxFJh5ZBRkIJh91OBZvTNvtXLDUrePq8W_7n1XGXEpU5abhx1e3JfeC9LOSbboVsVLG9s5aFkJF1yb47JbZMmHiTQpzp9wtXPnUevNUPusu9VV2EGBC9T8QV7wzYmpoJOVNsXgSI0Q1_hQS&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fshoulder-tie-detail-playsuit-14243960%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
+			},
+			{
+				"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCTre5aXUkD4FAzWQGHoxgaisgEfDekPdhg&usqp=CAU",
+				"price": "£99.99",
+				"image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2F3ad0bbc3-d1ff-413d-aaae-c92d9309293d.jpg&ups=1&v=3&w=400&s=h9Dytj5FYyecv6_q1zmQf7Wr",
+				"heading": " Stretch Denim Mom Shorts",
+				"caption": "High Waisted Denim Stretch Shorts by Roman Originals UK Update your denim collection with these trendy high waisted shorts Fastened with a button fly to the front and additional belt loops these turned hem pocket shorts are perfect for packing in your suitcase for your next holiday Cut from a sof...",
+				"clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=yx2EJvrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qVyVT2czf2_w3W3tD5NbamsOsxZZGbhfoEE9s7Eh_Y4Lks19i7VXmK2wmrlsNOuL2cwVVBnpnU7-3uS6g6FJV-XoKE_77hAo51AOFUg--9O-aMuBpsSOYTCviEVudWwsP5WS4rANoeyp4DhwauOG7WNe-U2jvuL6Dd9xMy_Kn9sOYUvwVGbs91t6ykrqY-IqJNnPfW0j27nDqVQ8MYemO0Y-N_q0MsnyzNMb_j4V4MKy0D8rn7GfBsF-oj2kqvUwJZssPWDcfqZYYYrI24_oW5YNOqvXDmculJFrD96cFolCdwY2DixmsyY7un5wDpYjFPd3S4rz16kPL3XkZxtcsBaeJbsOeGLKxfSuv30aAtqqfmKIp8DSIkYPbcaz88nZ4&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fhigh-waisted-denim-stretch-shorts-18028794%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
+			},
+			{
+				"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCTre5aXUkD4FAzWQGHoxgaisgEfDekPdhg&usqp=CAU",
+				"price": "£99.99",
+				"image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fd36c1801-cb18-4d1a-9b74-39e656cbdfee.jpg&ups=1&v=3&w=400&s=qSsn0UABiEuADRS_os6wN2vn",
+				"heading": " Cotton Blend Culotte Jumpsuit",
+				"caption": "Cotton Blend Culotte Jumpsuit by Roman Originals UK Made from a smooth and cool blend of linen and cotton this relaxed jumpsuit is sure to become a suitcase staple It features a feminine v neckline and partially open front with sweet button fastenings It has Summerready short sleeves and boasts l...",
+				"clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=3dEgZ_rxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qwaKTchajRGm_5RMl760Uihm06U7rBeVDOEWD_xMKrhy6-Wy9HHa18fbqbSUaiIkacF55aA-YlomLrYwRPPfWTGY5TDMvvx8-NMbuNu4a2Jl0pLUNhcsLCSSGKpJY2GIpaxzDhn-lq8mX1p81BcpE4hxcQH6SIwthTaeBOgJd2RudbamvRKQrcLscQdTQm-Jc3RkWflKIkgYCAuf7aOPRIl8TrbHBeSPOAKLkIGi9MfbSo2upYSQIS3uoaCf3EUuO6SmnIyyZfYCbDbkb6NzqgPgyg3npTqyxLPtcQW7AND5i2Ou6y7MFqMkK5BNlIMxL6JLTIQj_c4SyJmcKK-0MeS9zm8ZWYlRJQ_tlzvgSBPc4yLm2rrppbYWooCZIVGZD&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Flinen-wide-leg-jumpsuit-14244160%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
+			},
+			{
+				"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCTre5aXUkD4FAzWQGHoxgaisgEfDekPdhg&usqp=CAU",
+				"price": "£99.99",
+				"image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2F770e7ee1-3dc1-4d6d-ade9-c0b7384c34f1.jpg&ups=1&v=3&w=400&s=iq4IMpkqZLfdL7WI0SvgVtWn",
+				"heading": " Stretch Denim Mom Shorts",
+				"caption": "High Waisted Denim Stretch Shorts by Roman Originals UK Update your denim collection with these trendy high waisted shorts Fastened with a button fly to the front and additional belt loops these turned hem pocket shorts are perfect for packing in your suitcase for your next holiday Cut from a sof...",
+				"clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=CpENafrxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qt3oh6T5cG3AYWhyPaTSoCtumF7NjkRWYbEzSlvXzKsVK0Wk930uhNRb4uoHOGzeRv3fkPuVPv3N0x3FTr36CR6cPIOp_7NXA3nZYPC5j5UhHKyhjJt_CMWaglxoUtS66WOMksCoOiiUkRq80wVFah82xE9MuiKU4E_wvH7k7Ml_0Lz6-lLk7adb3UNpz2g4zAUJvwF4SBfpZLMHjKor3PaPc97cWTjZYEhqpD736f9MW4GS1WdE2NRbnMHJXCyiwSsyh9TPzkOaEcfmzQXss5VR-sG4sKHKX6_cV8rk02sroXzrHytEyRQHAJrQ77djyvDOIfkukPuQaGONnSP6835X3MRWxBzZ1Nw_MagvGgfWMFeVlh7RkGr-IwKznY2qq&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fhigh-waisted-denim-stretch-shorts-18028729%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
+			},
+			{
+				"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCTre5aXUkD4FAzWQGHoxgaisgEfDekPdhg&usqp=CAU",
+				"price": "£99.99",
+				"image_url": "https://imageproxy.eu.criteo.net/img/img?c=3&cq=256&h=400&m=0&partner=33326&q=80&r=0&u=https%3A%2F%2Fromans-cdn.rlab.net%2Fimages%2Foriginal%2Fbe18edd1-ef02-4ddc-b8de-1ee99fd2c5b6.jpg&ups=1&v=3&w=400&s=NYWYf_HYujyLFyUuw9_iybtK",
+				"heading": " Classic Cotton Denim Jacket",
+				"caption": "Classic Cotton Denim Jacket by Roman Originals UK This classic denim jacket is a wardrobe essential for any lady This cropped piece comes complete with stylish silvertoned buttons a classic collar and two chest patch pockets Perfect to throw on over your spring summer outfits when it gets a littl...",
+				"clickthrough_url": "https://cat.fr3.eu.criteo.com/delivery/ckn.php?cppv=3&cpp=Jdbhu_rxpoZDv3c3sxMrKVS3JF2BptrrihA05eEDO4uN4rdi749t_dlN2taXHvaL3FVCWi28YOXppjX27Yhc9oG99H0z4rC_ZhPBMhTUigmK0e3qVyVT2czf2_w3W3tD5NbamvhGvpakireaECAk-wSjxlpgatGe9PHyBI4aE7GXu-zwUYqhAUSLqCA9FsGahCPlCjIVPUuduPQ5U22vErm9hWFLUsfIJWEcWCKEYLR5yvKENtiTSv4Zc--SswP5wTCROgLtGOsY4ax94JSQPkLRleG_acx_n3XzZw_Z5VpWPTBCWw_5KX6LRBE5x9mBWJ-Wu4Hy38OCktzLOMx9Ln2XEYYx6jUmwPLP1T30exZjnWYo5yp_CDLch9ABWwPMUom6gzoijaX_L9Jn1F_G0T8C714vAlEpSPLKFCDtiMvi4qgk5UVquOWoq2IrIJdcfTVEkuPn4QZqBo9MAZrOUhwxEo658gY1yoazEKQUe9ks4gm9&maxdest=https%3A%2F%2Fwww.roman.co.uk%2Fclassic-washed-denim-jacket-15005682%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3Dlowerfunnel"
+			}
+		]
+	}
 }
